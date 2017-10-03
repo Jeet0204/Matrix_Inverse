@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Copyright 2016
+// Engineer: Jeet Jivrajani
 // 
 // Create Date:    18:06:34 10/07/2016 
 // Design Name: 
